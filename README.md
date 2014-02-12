@@ -1,7 +1,7 @@
 arduino-leonardo-graph
 ======================
 
-This application visualizes a temporal representation of Analog In/Out and Digital In/Out 
+This application visualizes the Analog In/Out and Digital In/Out 
 of an Arduino Leonardo by reading from the serial port specified by PORT_NUM using
 [Dynamic Data Display 2.0](http://dynamicdatadisplay.codeplex.com/) for wpf.
   
