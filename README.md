@@ -11,7 +11,11 @@ Modify your Arduino code to output to the serial in the form:
 `*D#,#,...,#,#;`
  
 Where `*` denotes the beginning of a read, `A` denotes Analog and `D` denotes Digital, each `#` represents
-the reading where In/Out alternate in order of the port number and `;` denotes the end of a reading.
+the reading where In/Out alternate in order of the port number and `;` denotes the end of a reading. The sample file
+[arduino_code.ino](arduino_code.ino) shows the expected formatting.
+
+
 Note that this currently only supports devices with up to the same
 number of ports as a Arduino Leonardo due to screen space, but future
 versions will support variable number of ports.
+
