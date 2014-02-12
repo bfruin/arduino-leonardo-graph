@@ -1,4 +1,4 @@
-arduino-leonardo-graph
+Arduino Leonardo Graph
 ======================
 
 This application visualizes the Analog In/Out and Digital In/Out 
